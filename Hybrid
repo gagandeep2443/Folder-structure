@@ -1,0 +1,25 @@
+HybridFramework/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── base/
+│   │   │   ├── pages/
+│   │   │   ├── utils/
+│   │   │   ├── config/
+│   │   ├── resources/
+│   │   │   ├── config.properties
+│   │   │   ├── testdata/
+│   │   │   ├── locators/
+│   ├── test/
+│   │   ├── java/
+│   │   │   ├── testcases/
+│   │   │   ├── runner/
+│   │   ├── resources/
+│   │   │   ├── testng.xml
+│   │   │   ├── cucumber/
+├── drivers/
+├── logs/
+├── reports/
+├── screenshots/
+├── pom.xml
+├── README.md
